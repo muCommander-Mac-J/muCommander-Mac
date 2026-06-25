@@ -59,7 +59,7 @@ The <a href="#muCommander">server administration use case</a> uses muCommander's
 ---
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/293408/m/mucommander-screenshot.png?v=1612425853" alt="muCommander screenshot 2"/>
+  <img src="https://www.ntpro.nl/blog/uploads/ScreenShot2013-07-23at6.05.54AM.png" alt="muCommander screenshot 2"/>
 </p>
 
 ## 🌍 Where It's Useful & Additional Information
